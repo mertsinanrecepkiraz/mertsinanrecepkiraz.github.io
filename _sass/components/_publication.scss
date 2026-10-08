@@ -143,3 +143,86 @@
     color: var(--text-muted);
   }
 }
+
+// Full publications page: compact, numbered bibliography modeled after the
+// reference academic site while retaining this site's blue identity.
+.publication-page {
+  .publication-section {
+    margin: 0 0 1.875rem;
+    padding: 0.625rem 3% 0;
+  }
+
+  h2 {
+    margin: 0 0 1rem;
+    font-size: 1.75rem;
+    font-weight: 400;
+
+    &::after { display: none; }
+  }
+
+  ol.bibliography {
+    margin: 0;
+    padding-left: 2rem;
+  }
+
+  ol.bibliography > li {
+    max-width: none;
+    margin-bottom: 1.25rem;
+    padding-left: 0.2rem;
+  }
+
+  .pub-entry {
+    padding: 0;
+    border: 0;
+  }
+
+  .year-badge { display: none; }
+
+  .pub-actions {
+    gap: 0.35rem;
+    margin-top: 0.35rem;
+  }
+
+  .btn-pill {
+    height: 1.4rem;
+    padding: 0 0.9rem;
+    border: 1px solid var(--accent-base);
+    border-radius: 0.2rem;
+    background: var(--accent-base);
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 500;
+    line-height: 1.3rem;
+    letter-spacing: 0.02em;
+
+    &:hover,
+    &:focus-visible {
+      border-color: color-mix(in srgb, var(--accent-base) 78%, black);
+      background: color-mix(in srgb, var(--accent-base) 78%, black);
+      color: #fff;
+    }
+  }
+
+  .pub-collapse {
+    &.show { padding-top: 0.55rem; }
+
+    pre {
+      margin: 0;
+      padding: 0.65rem;
+      border: 0;
+      border-radius: 0.3rem;
+      background: #ebeff1;
+      color: #000;
+      font-size: 0.78rem;
+      line-height: 1.45;
+    }
+  }
+}
+
+@media (max-width: 575px) {
+  .publication-page {
+    .publication-section { padding-right: 0; padding-left: 0; }
+    ol.bibliography { padding-left: 1.5rem; }
+    .btn-pill { padding-right: 0.65rem; padding-left: 0.65rem; }
+  }
+}

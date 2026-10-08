@@ -67,7 +67,8 @@
     var target = document.getElementById(targetId);
     if (!target) return;
 
-    target.classList.toggle('show');
+    var isOpen = target.classList.toggle('show');
+    button.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
   });
 
   // ----- Publication Search/Filter -----
