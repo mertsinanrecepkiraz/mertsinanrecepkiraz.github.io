@@ -1,7 +1,7 @@
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
-name: "Mert Sinan Recep Kiraz"
+name: "Mert Kiraz"
 title: "Geophysicist & Researcher"
 institution: "ExxonMobil"
 email: mertkiraz@gmail.com
@@ -11,7 +11,7 @@ photo: mert-kiraz.png
 # STEP 2: Your Links (optional -- leave blank to hide an icon)
 # ============================================================
 links:
-  google_scholar: ""
+  google_scholar: "https://scholar.google.com/citations?user=xoOTrT4AAAAJ&hl=en"
   github: "https://github.com/mertsinanrecepkiraz"
   researchgate: ""
   orcid: "https://orcid.org/0000-0002-3824-5367"
