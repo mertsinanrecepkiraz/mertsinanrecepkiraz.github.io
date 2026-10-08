@@ -16,7 +16,7 @@ I am a computational geophysicist working at the intersection of seismic wave pr
 
 My work focuses on developing computational tools for seismic imaging, noise and multiple attenuation, and subsurface monitoring. I am particularly interested in methods that integrate physical understanding with modern data analysis to address Earth science problems with societal relevance, including the reliable monitoring of geologic carbon storage.
 
-<p class="home-highlight"><strong>My research focuses on Marchenko redatuming and focusing, multiple attenuation and deghosting, seismic interferometry, and machine-learning methods for seismic processing.<strong><a href="{{ '/research' | relative_url }}">See research</a></strong></p>
+<p class="home-highlight"><strong>My research focuses on Marchenko redatuming and focusing, multiple attenuation and deghosting, seismic interferometry, and machine-learning methods for seismic processing.</strong> <a href="{{ '/research' | relative_url }}">See research</a></p>
 
 I earned my Ph.D. in Geophysics from Colorado School of Mines in 2023, where my doctoral research focused on data-driven and machine-learning approaches for suppressing multiply reflected seismic waves. I completed an M.S. in Geophysics at Purdue University in 2018, studying Marchenko redatuming and imaging for carbon sequestration monitoring. I am currently working at ExxonMobil as a geophysicist.
 
