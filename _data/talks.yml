@@ -1,0 +1,23 @@
+# Talks, shown on the Talks page in the order listed (newest first is conventional).
+# Each entry needs: title, event, year
+# Optional: location, date (free text, e.g. "11 December"), type (invited or contributed;
+#           anything other than invited is listed as contributed), url, slides, video
+
+- title: Marchenko focusing using convolutional neural networks
+  event: International Meeting for Applied Geoscience & Energy (IMAGE)
+  year: 2022
+  url: https://doi.org/10.1190/image2022-3738167.1
+
+- title: Marchenko without up/down decomposition on the Marmousi model and retrieval of the refracted waves
+  event: SEG International Exposition and Annual Meeting
+  year: 2021
+  url: https://doi.org/10.1190/segam2021-3583530.1
+
+- title: Marchenko focusing without up/down decomposition
+  event: SEG International Exposition and Annual Meeting
+  year: 2020
+  url: https://doi.org/10.1190/segam2020-3423471.1
+
+- title: Testing of Marchenko redatuming and imaging for carbon sequestration monitoring
+  event: AGU Fall Meeting
+  year: 2017

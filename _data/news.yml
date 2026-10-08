@@ -1,0 +1,11 @@
+# News items shown on the home page sidebar.
+# The 3 most recent are shown; all appear on /allnews.
+# Each entry needs: date, headline
+- date: 2026
+  headline: "Published work on the role of background velocity models in Marchenko focusing in Pure and Applied Geophysics"
+
+- date: 2024
+  headline: "Published a CNN approach for free-surface multiple attenuation and seismic deghosting for blended data in Geophysics"
+
+- date: 2023
+  headline: "Completed a Ph.D. in Geophysics at Colorado School of Mines"
