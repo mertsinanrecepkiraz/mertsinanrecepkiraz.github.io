@@ -14,7 +14,7 @@ links:
   google_scholar: "https://scholar.google.com/citations?user=xoOTrT4AAAAJ&hl=en"
   github: "https://github.com/mertsinanrecepkiraz"
   researchgate: ""
-  orcid: "https://orcid.org/0000-0002-3824-5367"
+  orcid: ""
   twitter: ""
   linkedin: "https://www.linkedin.com/in/mertsinanrecepkiraz"
   cv: ""  # e.g., "papers/cv.pdf"
@@ -25,7 +25,7 @@ links:
 accent_color: "#176b87"      # theme color; light and dark variants are derived automatically
 dark_mode: true              # set to false to disable dark mode entirely
 math: false                  # true loads MathJax on every page; or add `math: true` to individual pages
-description: "Personal academic website of Mert Sinan Recep Kiraz, geophysicist and researcher in seismic imaging, wave propagation, and machine learning."
+description: "Personal academic website of Mert Sinan Recep Kiraz, geophysicist and researcher in computational geoscience, AI/ML for geoscience, and Earth system data science."
 
 # When deploying with the included GitHub Actions workflow these are filled
 # in automatically from your Pages settings (user site, project site, or
