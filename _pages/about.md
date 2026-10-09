@@ -32,8 +32,8 @@ permalink: /about/
 
 <div class="section-card">
 <h3>Profile</h3>
-<p>I am a geophysicist and researcher specializing in seismic imaging, wave propagation, and machine-learning methods for seismic processing. My work spans Marchenko focusing and redatuming, seismic interferometry, multiple attenuation, deghosting, and subsurface monitoring.</p>
-<p>I received my Ph.D. in Geophysics from Colorado School of Mines in 2023 and an M.S. in Geophysics from Purdue University. I am currently affiliated with ExxonMobil in the Houston area.</p>
+<p>I am a geophysicist and researcher specializing in scientific computing, seismic data analysis, and machine-learning methods for seismic imaging and velocity model building. My work spans Marchenko focusing and redatuming, seismic interferometry, multiple attenuation, deghosting, and subsurface monitoring.</p>
+<p>I received my Ph.D. in Geophysics from Colorado School of Mines in 2023 and an M.S. in Geophysics from Purdue University in 2018. I am currently working at ExxonMobil as a geophysicist.</p>
 </div>
 
 {% if site.data.grants %}
